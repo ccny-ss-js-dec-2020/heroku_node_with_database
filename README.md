@@ -1,5 +1,5 @@
 ## Heroku Node With Database
-* Watch the video in this repo that goes through all of the instructions below
+* Watch [this](https://www.youtube.com/watch?v=tmtw26OPOac) video that goes through all of the instructions below
 1. Push code to Github
 2. Run ```heroku create```
 3. Run ```heroku addons:create jawsdb:kitefin``` (https://elements.heroku.com/addons/jawsdb)
