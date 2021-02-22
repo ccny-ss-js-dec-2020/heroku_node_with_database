@@ -1,5 +1,5 @@
 {
-  "name": "first_post",
+  "name": "heroku_node_with_database",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
